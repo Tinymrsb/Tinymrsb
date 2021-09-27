@@ -1,7 +1,6 @@
-- Hey Yall, I’m @Tinymrsb!
-- I’m interested in building my skills and learning everything I can.
-- I’m currently learning HTML and CSS.
-- You can reach me on Twitter @TinyMrsB.
+- Hey Yall, I’m Brittany!
+- Sharpening my HTML and CSS skills at the moment! 
+- You can reach me on Twitter or Instagram @TinyMrsB.
 
 <!---
 Tinymrsb/Tinymrsb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
