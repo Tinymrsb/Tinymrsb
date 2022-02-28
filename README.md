@@ -1,5 +1,5 @@
 - Hey Yall, I’m Brittany!
-- Expanding my skills at the moment! 
+- Lifetime learner, currently working through JavaScript on FreeCodeCamp. 
 - You can reach me on all the socials with @TinyMrsB.
 
 <!---
