@@ -1,5 +1,5 @@
 - Hey Yall, I’m Brittany!
-- Lifetime learner, currently working through challenges on FreeCodeCamp and Sololearn.
+- Lifetime learner, currently working through a Full-Stack program.
 - You can reach me on all the socials with @TinyMrsB.
 
 <!---
